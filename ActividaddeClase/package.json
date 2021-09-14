@@ -1,11 +1,11 @@
 {
   "name": "app-tareas",
   "version": "1.0.0",
-  "description": "tareas de proyecto",
+  "description": "tareas ",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "luis barco",
+  "author": "Fabricio Lopez",
   "license": "ISC"
 }
